@@ -3731,7 +3731,7 @@
 }
 #u314 {
   position:absolute;
-  left:71px;
+  left:84px;
   top:6px;
   width:185px;
   height:48px;
@@ -3765,7 +3765,7 @@
 }
 #u316 {
   position:absolute;
-  left:276px;
+  left:289px;
   top:6px;
   width:100px;
   height:48px;
@@ -3799,7 +3799,7 @@
 }
 #u318 {
   position:absolute;
-  left:397px;
+  left:410px;
   top:6px;
   width:100px;
   height:48px;
@@ -3833,7 +3833,7 @@
 }
 #u320 {
   position:absolute;
-  left:518px;
+  left:531px;
   top:6px;
   width:100px;
   height:48px;
@@ -3867,7 +3867,7 @@
 }
 #u322 {
   position:absolute;
-  left:637px;
+  left:650px;
   top:6px;
   width:110px;
   height:48px;
@@ -3901,7 +3901,7 @@
 }
 #u324 {
   position:absolute;
-  left:768px;
+  left:781px;
   top:6px;
   width:83px;
   height:48px;
@@ -4107,4 +4107,52 @@
   top:0px;
   width:633px;
   word-wrap:break-word;
+}
+#u343 {
+  position:absolute;
+  left:20px;
+  top:10px;
+  width:40px;
+  height:40px;
+}
+#u343_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  height:41px;
+}
+#u344 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:36px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u345 {
+  position:absolute;
+  left:11px;
+  top:18px;
+  width:63px;
+  height:23px;
+  font-family:'Droid Serif Regular', 'Droid Serif';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+}
+#u345_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  height:24px;
+}
+#u346 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:63px;
+  white-space:nowrap;
 }
