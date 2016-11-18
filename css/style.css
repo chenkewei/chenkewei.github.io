@@ -133,7 +133,7 @@ a {
 	font-family: 'montserratregular';
 }
 .font-extra-bold {
-	font-family: 'montserratbold';
+	font-family: 'montserratbold', 'rockwell';
 }
 p.intro-small {
 	font-style: italic;
