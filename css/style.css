@@ -1858,12 +1858,12 @@ header.coporate-header .is-sticky .sticky .ownmenu > li > .megamenu {
       POERFOLIO COL
 ========================================================*/
 .col-4 .portfolio-item {
-	width: 25%;
+	width: 50%;
 	position: relative;
 	float: left;
 }
 .col-3 .portfolio-item {
-	width: 33.3333%;
+	width: 50%;
 	position: relative;
 }
 /*=======================================================
