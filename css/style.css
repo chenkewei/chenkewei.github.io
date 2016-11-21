@@ -1588,7 +1588,7 @@ header.coporate-header .is-sticky .sticky .ownmenu > li > .megamenu {
 	position: absolute;
 	text-align: center;
 	top: 0;
-	width: 10%;
+	width: 100%;
 	z-index: 2;
 	transition: all 400ms ease-out;
 	overflow: hidden;
